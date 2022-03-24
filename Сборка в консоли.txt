@@ -1,0 +1,1 @@
+csc outOCR2.exe rTesseract.dll; .cs
